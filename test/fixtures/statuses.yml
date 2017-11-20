@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sat_id: 1
+  depth: 1.5
+  risk: 1.5
+
+two:
+  sat_id: 1
+  depth: 1.5
+  risk: 1.5
